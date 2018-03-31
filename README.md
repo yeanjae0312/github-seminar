@@ -1,4 +1,3 @@
-
 # 깃허브 세미나 
 
 깃허브 프로필 주소를 남겨주세요.
@@ -8,3 +7,4 @@
 [Violet Bora Lee](https://github.com/Violet-Bora-Lee)
 [고희경](https://github.com/heekyong/)
 [정주영](https://github.com/jungjuyoung)
+[나라](https://github.com/narahan/)
