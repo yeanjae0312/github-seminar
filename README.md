@@ -1,3 +1,7 @@
-## Welcome to GitHub Seminar
+# 깃허브 세미나 
+깃허브 프로필 주소를 남겨주세요.
 
-# [MINJI KIM](https://github.com/min-ji-kim/) 
+[이수진](https://github.com/sujinleeme) 
+[Violet Bora Lee](https://github.com/Violet-Bora-Lee)
+[MINJI KIM](https://github.com/min-ji-kim/) 
+
