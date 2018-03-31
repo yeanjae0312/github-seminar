@@ -8,4 +8,5 @@
 [고희경](https://github.com/heekyong/)
 [정주영](https://github.com/jungjuyoung)
 [나라](https://github.com/narahan/)
+[김연수](https://github.com/yskimaz)
 [김화목](https://github.com/hwamok)
